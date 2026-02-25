@@ -152,6 +152,23 @@ Scraps/
   2. 元のカテゴリファイルから該当スクラップを削除する
   3. 以降の復習には出題しない
 
+### Git コミット・プッシュ
+
+スクラップの**保存**または**理解度更新**を行ったとき、ファイル更新の直後に自動でコミット・プッシュする:
+
+```bash
+git add {更新したファイル}
+git commit -m "scrap: {操作内容の要約} (YYYY-MM-DD)"
+git push origin main
+```
+
+コミットメッセージの例:
+- `scrap: add CTE to SQL (2026-02-25)`
+- `scrap: review SQL, Web — update 3 items (2026-02-25)`
+- `scrap: archive "upsert トグル設計" from SQL (2026-02-25)`
+
+ユーザーへの確認は不要。ファイル保存と一体の操作として実行する。
+
 ---
 
 ## 注意事項
