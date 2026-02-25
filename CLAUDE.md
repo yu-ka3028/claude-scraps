@@ -16,8 +16,8 @@ Scraps/
 ├── TypeScript.md                    ← カテゴリ別ファイル（例）
 └── .claude/
     └── skills/
-        ├── status/SKILL.md          ← /status コマンド（今日の復習件数表示）
-        └── review/SKILL.md          ← /review コマンド（復習セッション）
+        ├── status-scrap/SKILL.md    ← /status-scrap コマンド（今日の復習件数表示）
+        └── review-scrap/SKILL.md   ← /review-scrap コマンド（復習セッション）
 ```
 
 - **1セッション = 1スクラップ**を原則とする
@@ -91,7 +91,7 @@ Scraps/
 
 ### 復習する
 
-`/review` スラッシュコマンドで実行する。詳細な手順は `.claude/skills/review/SKILL.md` に定義。
+`/review-scrap` スラッシュコマンドで実行する。詳細な手順は `.claude/skills/review-scrap/SKILL.md` に定義。
 
 ### 理解度を更新する
 
