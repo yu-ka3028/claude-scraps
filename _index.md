@@ -7,7 +7,7 @@
 | SQL/CTE.md | 2026-03-14 | [x][x][x][ ] | CTE, WITH, サブクエリ, 派生テーブル |
 | SQL/ウィンドウ関数-ページネーション最適化.md | 2026-03-10 | [x][x][x][ ] | ウィンドウ関数, ページネーション, COUNT, CTE |
 | SQL/COUNT-OVER-PARTITION-BY.md | 2026-03-10 | [x][x][x][ ] | ウィンドウ関数, COUNT, PARTITION BY, MAX |
-| SQL/MAX-値取り出し-GROUP-BY制約.md | 2026-03-06 | [x][x][ ][ ] | GROUP BY, MAX, ウィンドウ関数, 集約 |
+| SQL/MAX-値取り出し-GROUP-BY制約.md | 2026-03-14 | [x][x][x][ ] | GROUP BY, MAX, ウィンドウ関数, 集約 |
 | SQL/相関サブクエリ-ウィンドウ関数置換不可.md | 2026-03-07 | [x][x][ ][ ] | ウィンドウ関数, サブクエリ, JOIN |
 | SQL/経路列挙-先祖子孫クエリ.md | 2026-03-06 | [x][x][ ][ ] | 経路列挙, LIKE, ツリー構造 |
 | SQL/upsert-トグル設計.md | 2026-03-11 | [x][x][x][ ] | upsert, INSERT, UPDATE, トランザクション |
