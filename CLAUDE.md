@@ -23,7 +23,8 @@ Scraps/
 └── .claude/
     └── skills/
         ├── status-scrap/SKILL.md
-        └── review-scrap/SKILL.md
+        ├── review-scrap/SKILL.md
+        └── report-scrap/SKILL.md
 ```
 
 - **1スクラップ = 1ファイル**
@@ -110,6 +111,11 @@ Scraps/
 ### 復習する
 
 `/review-scrap` スラッシュコマンドで実行する。詳細な手順は `.claude/skills/review-scrap/SKILL.md` に定義。
+
+### レポートを生成する
+
+`/report-scrap` スラッシュコマンドで実行する。詳細な手順は `.claude/skills/report-scrap/SKILL.md` に定義。
+期間（week / 2weeks / month）を指定して、活動サマリー・理解度分布・基礎トピック進捗・次の学習提案を表示する。
 
 ### 理解度を更新する
 
