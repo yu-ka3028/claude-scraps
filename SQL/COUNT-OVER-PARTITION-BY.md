@@ -1,5 +1,3 @@
-# COUNT-OVER-PARTITION-BY
-
 | 項目 | 値 |
 |------|---|
 | 理解度 | [x][x][x][ ] |
