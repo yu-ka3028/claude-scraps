@@ -15,7 +15,7 @@
 - `COUNT(total_count)` は「NULLでない行数」を数えてしまい、値を取り出す目的に合わない
 - `ANY_VALUE` が最も意図明確だが、慣習的に `MAX` が使われることが多い
 
-**メモ:**
+**メモ:** `COUNT(*) OVER()` が全行同じ値になる理由は [[COUNT-OVER-PARTITION-BY]] を参照。
 ```
 id | category | price
  1 | A        | 100

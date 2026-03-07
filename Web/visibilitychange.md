@@ -9,4 +9,4 @@
 
 **Q:** `visibilitychange` イベントとは何か？どんなときに使うか？
 
-**A:** タブ・ウィンドウの表示状態が変わったときに `document` で発火するイベント。`document.visibilityState` が `"visible"` / `"hidden"` になるタイミングで検知できる。動画の自動停止、タイマー制御、ポーリングの停止・再開などに使う。
+**A:** タブ・ウィンドウの表示状態が変わったときに `document` で発火するイベント。`document.visibilityState` が `"visible"` / `"hidden"` になるタイミングで検知できる。動画の自動停止、タイマー制御、ポーリングの停止・再開などに使う。bfcache による復元時にも発火するため、[[bfcache]] と組み合わせて考える必要がある。

@@ -24,4 +24,4 @@ SELECT id, category, COUNT(*) OVER() FROM orders
 -- 3 | B | 3
 ```
 
-**メモ:** `OVER()` の中が空 = 全行をウィンドウとする。`PARTITION BY` で絞ると「同じグループ内の行」が対象になる。名前の由来は "calculate COUNT **over** this window of rows"（この範囲にわたって集計する）という英語の語感から。
+**メモ:** `OVER()` の中が空 = 全行をウィンドウとする。`PARTITION BY` で絞ると「同じグループ内の行」が対象になる（[[COUNT-OVER-PARTITION-BY]] 参照）。名前の由来は "calculate COUNT **over** this window of rows"（この範囲にわたって集計する）という英語の語感から。実用例は [[ウィンドウ関数-ページネーション最適化]] を参照。相関サブクエリと置き換えられないケースは [[相関サブクエリ-ウィンドウ関数置換不可]] を参照。
