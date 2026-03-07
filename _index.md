@@ -4,7 +4,7 @@
 |---------|---------|-------|---------|
 | SQL/Jaywalking-アンチパターン.md | 2026-03-08 | [x][x][x][ ] | JOIN, インデックス, カンマ区切り, LIKE |
 | SQL/FROM-JOIN-等価性.md | 2026-03-08 | [x][x][x][ ] | JOIN, CROSS JOIN, INNER JOIN |
-| SQL/CTE.md | 2026-03-06 | [x][x][ ][ ] | CTE, WITH, サブクエリ, 派生テーブル |
+| SQL/CTE.md | 2026-03-14 | [x][x][x][ ] | CTE, WITH, サブクエリ, 派生テーブル |
 | SQL/ウィンドウ関数-ページネーション最適化.md | 2026-03-10 | [x][x][x][ ] | ウィンドウ関数, ページネーション, COUNT, CTE |
 | SQL/COUNT-OVER-PARTITION-BY.md | 2026-03-10 | [x][x][x][ ] | ウィンドウ関数, COUNT, PARTITION BY, MAX |
 | SQL/MAX-値取り出し-GROUP-BY制約.md | 2026-03-06 | [x][x][ ][ ] | GROUP BY, MAX, ウィンドウ関数, 集約 |
