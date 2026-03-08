@@ -17,4 +17,4 @@
 | Web/bfcache.md | 2026-03-11 | [x][x][ ][ ] | キャッシュ, ブラウザ, 認証, visibilitychange |
 | Web/SSR-vs-CSR.md | 2026-03-07 | [x][x][ ][ ] | SSR, CSR, レンダリング, Next.js, React |
 | Next/useEffect-サーバー環境.md | 2026-03-11 | [x][x][x][ ] | useEffect, window, SSR, Next.js |
-| Java/NotBlank-アノテーション.md | 2026-03-06 | [x][x][x][ ] | バリデーション, アノテーション, Spring |
+| Java/NotBlank-アノテーション.md | 2026-03-11 | [x][x][ ][ ] | バリデーション, アノテーション, Spring |
