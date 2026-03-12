@@ -22,3 +22,4 @@
 | Web/SPA.md | 2026-03-13 | [x][ ][ ][ ] | SPA, MPA, CSR, アーキテクチャ |
 | Web/RSC.md | 2026-03-13 | [x][ ][ ][ ] | RSC, React, SSR, hydration, Next.js |
 | Java/NotBlank-アノテーション.md | 2026-03-19 | [x][x][x][ ] | バリデーション, アノテーション, Spring |
+| Supabase/RLS.md | 2026-03-14 | [x][ ][ ][ ] | RLS, Supabase, 認証, 認可, PostgreSQL |
