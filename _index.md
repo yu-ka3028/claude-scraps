@@ -12,14 +12,14 @@
 | SQL/COUNT-OVER-PARTITION-BY.md | 2026-03-17 | [x][x][x][ ] | ウィンドウ関数, COUNT, PARTITION BY, MAX |
 | SQL/MAX-値取り出し-GROUP-BY制約.md | 2026-03-14 | [x][x][x][ ] | GROUP BY, MAX, ウィンドウ関数, 集約 |
 | SQL/相関サブクエリ-ウィンドウ関数置換不可.md | 2026-03-15 | [x][x][x][ ] | ウィンドウ関数, サブクエリ, JOIN |
-| SQL/経路列挙-先祖子孫クエリ.md | 2026-03-12 | [x][x][ ][ ] | 経路列挙, LIKE, ツリー構造 |
+| SQL/経路列挙-先祖子孫クエリ.md | 2026-03-20 | [x][x][x][ ] | 経路列挙, LIKE, ツリー構造 |
 | SQL/ウィンドウ関数-OVER句.md | 2026-03-18 | [x][x][x][ ] | ウィンドウ関数, OVER, GROUP BY, 集約 |
 | Web/プロキシ.md | 2026-03-16 | [x][x][x][ ] | プロキシ, 認証, ミドルウェア, Next.js |
 | Web/visibilitychange.md | 2026-03-19 | [x][x][x][ ] | イベント, タブ, ブラウザ, bfcache |
 | Web/bfcache.md | 2026-03-19 | [x][x][x][ ] | キャッシュ, ブラウザ, 認証, visibilitychange |
 | Web/SSR-vs-CSR.md | 2026-03-16 | [x][x][x][ ] | SSR, CSR, レンダリング, Next.js, React |
-| Next/AppRouter.md | 2026-03-13 | [x][ ][ ][ ] | App Router, ルーティング, RSC, Next.js, Rails |
-| Web/SPA.md | 2026-03-13 | [x][ ][ ][ ] | SPA, MPA, CSR, アーキテクチャ |
+| Next/AppRouter.md | 2026-03-16 | [x][x][ ][ ] | App Router, ルーティング, RSC, Next.js, Rails |
+| Web/SPA.md | 2026-03-16 | [x][x][ ][ ] | SPA, MPA, CSR, アーキテクチャ |
 | Web/RSC.md | 2026-03-13 | [x][ ][ ][ ] | RSC, React, SSR, hydration, Next.js |
 | Java/NotBlank-アノテーション.md | 2026-03-19 | [x][x][x][ ] | バリデーション, アノテーション, Spring |
 | Supabase/RLS.md | 2026-03-14 | [x][ ][ ][ ] | RLS, Supabase, 認証, 認可, PostgreSQL |
