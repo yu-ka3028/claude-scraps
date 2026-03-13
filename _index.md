@@ -20,6 +20,6 @@
 | Web/SSR-vs-CSR.md | 2026-03-16 | [x][x][x][ ] | SSR, CSR, レンダリング, Next.js, React |
 | Next/AppRouter.md | 2026-03-16 | [x][x][ ][ ] | App Router, ルーティング, RSC, Next.js, Rails |
 | Web/SPA.md | 2026-03-16 | [x][x][ ][ ] | SPA, MPA, CSR, アーキテクチャ |
-| Web/RSC.md | 2026-03-13 | [x][ ][ ][ ] | RSC, React, SSR, hydration, Next.js |
+| Web/RSC.md | 2026-03-16 | [x][x][ ][ ] | RSC, React, SSR, hydration, Next.js |
 | Java/NotBlank-アノテーション.md | 2026-03-19 | [x][x][x][ ] | バリデーション, アノテーション, Spring |
 | Supabase/RLS.md | 2026-03-14 | [x][ ][ ][ ] | RLS, Supabase, 認証, 認可, PostgreSQL |
