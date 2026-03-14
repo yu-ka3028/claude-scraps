@@ -27,3 +27,5 @@
 | React/フック-トップレベル制約.md | 2026-03-15 | [x][ ][ ][ ] | React, フック, useState, ループ, コンポーネント |
 | React/useState-set関数-更新関数.md | 2026-03-15 | [x][ ][ ][ ] | useState, set関数, 更新関数, nextState, React |
 | React/useState-初期化関数.md | 2026-03-15 | [x][ ][ ][ ] | useState, 初期化関数, 初期値, パフォーマンス, React |
+| React/useEffect-クリーンアップ関数.md | 2026-03-16 | [x][ ][ ][ ] | useEffect, クリーンアップ, addEventListener, connect, React |
+| React/props-と-state.md | 2026-03-16 | [x][ ][ ][ ] | props, state, useState, コンポーネント, React |
