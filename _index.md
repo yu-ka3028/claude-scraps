@@ -29,3 +29,5 @@
 | React/useState-初期化関数.md | 2026-03-15 | [x][ ][ ][ ] | useState, 初期化関数, 初期値, パフォーマンス, React |
 | React/useEffect-クリーンアップ関数.md | 2026-03-16 | [x][ ][ ][ ] | useEffect, クリーンアップ, addEventListener, connect, React |
 | React/props-と-state.md | 2026-03-16 | [x][ ][ ][ ] | props, state, useState, コンポーネント, React |
+| React/useEffect-依存配列.md | 2026-03-16 | [x][ ][ ][ ] | useEffect, 依存配列, マウント, 再実行, React |
+| React/マウントとアンマウント.md | 2026-03-16 | [x][ ][ ][ ] | マウント, アンマウント, ライフサイクル, useEffect, React |
