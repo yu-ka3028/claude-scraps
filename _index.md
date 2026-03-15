@@ -31,3 +31,4 @@
 | React/props-と-state.md | 2026-03-16 | [x][ ][ ][ ] | props, state, useState, コンポーネント, React |
 | React/useEffect-依存配列.md | 2026-03-16 | [x][ ][ ][ ] | useEffect, 依存配列, マウント, 再実行, React |
 | React/マウントとアンマウント.md | 2026-03-16 | [x][ ][ ][ ] | マウント, アンマウント, ライフサイクル, useEffect, React |
+| JavaScript/async-await.md | 2026-03-16 | [x][ ][ ][ ] | async, await, Promise, 非同期処理, 同期処理 |
