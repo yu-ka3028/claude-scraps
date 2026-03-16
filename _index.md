@@ -22,7 +22,7 @@
 | Web/RSC.md | 2026-03-16 | [x][x][ ][ ] | RSC, React, SSR, hydration, Next.js |
 | Web/hydration.md | 2026-03-19 | [x][x][ ][ ] | hydration, SSR, RSC, イベントリスナー |
 | Java/NotBlank-アノテーション.md | 2026-03-19 | [x][x][x][ ] | バリデーション, アノテーション, Spring |
-| Supabase/RLS.md | 2026-03-14 | [x][ ][ ][ ] | RLS, Supabase, 認証, 認可, PostgreSQL |
+| Supabase/RLS.md | 2026-03-20 | [x][x][ ][ ] | RLS, Supabase, 認証, 認可, PostgreSQL |
 | React/フック-トップレベル制約.md | 2026-03-15 | [x][ ][ ][ ] | React, フック, useState, ループ, コンポーネント |
 | React/useState-set関数-更新関数.md | 2026-03-15 | [x][ ][ ][ ] | useState, set関数, 更新関数, nextState, React |
 | React/useState-初期化関数.md | 2026-03-15 | [x][ ][ ][ ] | useState, 初期化関数, 初期値, パフォーマンス, React |
