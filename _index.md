@@ -12,7 +12,6 @@
 | SQL/相関サブクエリ-ウィンドウ関数置換不可.md | 2026-03-24 | [x][x][x][ ] | ウィンドウ関数, サブクエリ, JOIN |
 | SQL/経路列挙-先祖子孫クエリ.md | 2026-03-20 | [x][x][x][ ] | 経路列挙, LIKE, ツリー構造 |
 | SQL/ウィンドウ関数-OVER句.md | 2026-03-18 | [x][x][x][ ] | ウィンドウ関数, OVER, GROUP BY, 集約 |
-| Web/プロキシ.md | 2026-03-16 | [x][x][x][ ] | プロキシ, 認証, ミドルウェア, Next.js |
 | Web/visibilitychange.md | 2026-03-19 | [x][x][x][ ] | イベント, タブ, ブラウザ, bfcache |
 | Web/bfcache.md | 2026-03-19 | [x][x][x][ ] | キャッシュ, ブラウザ, 認証, visibilitychange |
 | Web/SSR-vs-CSR.md | 2026-03-16 | [x][x][x][ ] | SSR, CSR, レンダリング, Next.js, React |
