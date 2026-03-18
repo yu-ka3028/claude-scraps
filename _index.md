@@ -25,7 +25,7 @@
 | React/useState-set関数-更新関数.md | 2026-03-22 | [x][x][ ][ ] | useState, set関数, 更新関数, nextState, React |
 | React/useState-初期化関数.md | 2026-03-22 | [x][x][ ][ ] | useState, 初期化関数, 初期値, パフォーマンス, React |
 | React/useEffect-クリーンアップ関数.md | 2026-03-22 | [x][x][ ][ ] | useEffect, クリーンアップ, addEventListener, connect, React |
-| React/props-と-state.md | 2026-03-16 | [x][ ][ ][ ] | props, state, useState, コンポーネント, React |
+| React/props-と-state.md | 2026-03-22 | [x][x][ ][ ] | props, state, useState, コンポーネント, React |
 | React/useEffect-依存配列.md | 2026-03-16 | [x][ ][ ][ ] | useEffect, 依存配列, マウント, 再実行, React |
 | React/マウントとアンマウント.md | 2026-03-16 | [x][ ][ ][ ] | マウント, アンマウント, ライフサイクル, useEffect, React |
 | JavaScript/async-await.md | 2026-03-16 | [x][ ][ ][ ] | async, await, Promise, 非同期処理, 同期処理 |
