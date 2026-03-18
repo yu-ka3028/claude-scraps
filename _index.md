@@ -15,7 +15,7 @@
 | Web/visibilitychange.md | 2026-03-19 | [x][x][x][ ] | イベント, タブ, ブラウザ, bfcache |
 | Web/bfcache.md | 2026-03-19 | [x][x][x][ ] | キャッシュ, ブラウザ, 認証, visibilitychange |
 | Web/SSR-vs-CSR.md | 2026-03-26 | [x][x][x][ ] | SSR, CSR, レンダリング, Next.js, React |
-| Next/AppRouter.md | 2026-03-16 | [x][x][ ][ ] | App Router, ルーティング, RSC, Next.js, Rails |
+| Next/AppRouter.md | 2026-03-26 | [x][x][x][ ] | App Router, ルーティング, RSC, Next.js, Rails |
 | Web/SPA.md | 2026-03-16 | [x][x][ ][ ] | SPA, MPA, CSR, アーキテクチャ |
 | Web/RSC.md | 2026-03-16 | [x][x][ ][ ] | RSC, React, SSR, hydration, Next.js |
 | Web/hydration.md | 2026-03-19 | [x][x][ ][ ] | hydration, SSR, RSC, イベントリスナー |
