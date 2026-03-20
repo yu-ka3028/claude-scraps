@@ -28,5 +28,6 @@
 | React/useEffect-依存配列.md | 2026-03-20 | [x][ ][ ][ ] | useEffect, 依存配列, マウント, 再実行, React |
 | React/マウントとアンマウント.md | 2026-03-20 | [x][ ][ ][ ] | マウント, アンマウント, ライフサイクル, useEffect, React |
 | JavaScript/async-await.md | 2026-03-20 | [x][ ][ ][ ] | async, await, Promise, 非同期処理, 同期処理 |
+| JavaScript/スタック-ヒープ.md | 2026-03-21 | [x][ ][ ][ ] | スタック, ヒープ, メモリ, GC, プリミティブ型 |
 | Java/int-Integer-null.md | 2026-03-22 | [x][x][ ][ ] | プリミティブ型, ラッパークラス, null, デフォルト値, Java |
 | Java/filter-vs-if.md | 2026-03-27 | [x][x][x][ ] | Stream, filter, if, ラムダ, Java |
