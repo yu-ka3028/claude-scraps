@@ -24,7 +24,8 @@ Scraps/
     └── skills/
         ├── status-scrap/SKILL.md
         ├── review-scrap/SKILL.md
-        └── report-scrap/SKILL.md
+        ├── report-scrap/SKILL.md
+        └── notebooklm-scrap/SKILL.md
 ```
 
 - **1スクラップ = 1ファイル**
@@ -104,6 +105,12 @@ Scraps/
 
 `/report-scrap` スラッシュコマンドで実行する。詳細な手順は `.claude/skills/report-scrap/SKILL.md` に定義。
 期間（week / 2weeks / month）を指定して、活動サマリー・理解度分布・基礎トピック進捗・次の学習提案を表示する。
+
+### NotebookLM 用原稿を生成する
+
+`/notebooklm-scrap` スラッシュコマンドで実行する。詳細な手順は `.claude/skills/notebooklm-scrap/SKILL.md` に定義。
+全スクラップ（アーカイブ含む）を意味的にグルーピングし、NotebookLM 用の音声読み上げ原稿を `_notebooklm/` 配下に生成する。
+再実行するたびに最新スクラップを反映して上書きする。
 
 ### 理解度を更新する
 
