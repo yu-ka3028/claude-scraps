@@ -1,0 +1,10 @@
+# Javaとnull — 型システムとバリデーション
+
+Javaはプリミティブ型とオブジェクト型の二重構造を持つ言語です。intは数値を直接扱うプリミティブ型で、デフォルト値は0、nullを持てません。Integerはintをラップしたオブジェクトでnullを持てます。データベースのNULLを扱うフィールドにはInteger、計算で使う変数にはintを使うという使い分けが基本です。この二重構造はJavaとC#特有で、KotlinやSwiftではIntとInt?で統一的に表現されています。
+
+nullに関してはもう一つ重要な話があって、静的メソッドとインスタンスメソッドでnullへの対応が全然違います。StringUtils.hasText(str)のような静的メソッドはnullを引数として受け取れるので内部でnullチェックが実装できます。一方、str.isEmpty()のようなインスタンスメソッドはstrというオブジェクトが存在する前提で呼ぶ設計なので、strがnullだとJVMが操作対象なしと判断してNullPointerExceptionを投げます。Objects.isNull(obj)とobj.equals(null)の違いも同じパターンで、静的かインスタンスかで挙動が変わります。
+
+バリデーションの文脈ではSpringのアノテーションが使われます。NotBlankはnull・空文字・空白のみをすべてNGとする最も厳しいアノテーションです。NotNullはnullのみNG、NotEmptyはnullと空文字がNG、NotBlankはその上に空白のみもNGという段階があります。フォームの入力チェックでは通常NotBlankが最適で、見た目が空でも空白だけが入っているケースを弾けます。
+
+---
+_対象スクラップ: Java/int-Integer-null.md, Java/静的メソッドとインスタンスメソッド-null安全性.md, Java/NotBlank-アノテーション.md_
