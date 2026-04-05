@@ -32,3 +32,4 @@
 | Java/int-Integer-null.md | 2026-03-22 | [x][x][ ][ ] | プリミティブ型, ラッパークラス, null, デフォルト値, Java |
 | Java/filter-vs-if.md | 2026-03-27 | [x][x][x][ ] | Stream, filter, if, ラムダ, Java |
 | Java/静的メソッドとインスタンスメソッド-null安全性.md | 2026-03-28 | [x][ ][ ][ ] | 静的メソッド, インスタンスメソッド, null, NPE, Java |
+| SQL/COALESCE.md | 2026-04-06 | [x][ ][ ][ ] | COALESCE, NULL, EAV, アンチパターン, 型 |
